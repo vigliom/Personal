@@ -1,5 +1,8 @@
 // Aquí se listarán los estudios o formaciones
 export default [
-  // Ejemplo:
-  // { institucion: 'Universidad', titulo: 'Título', periodo: '2015-2020' }
+  {
+    institucion: 'IES La mar',
+    titulo: 'Ciclo Formativo de Grado Superior, Desarrollo de aplicaciones Multimedia',
+    periodo: '2021 - 2023'
+  }
 ];
